@@ -17,6 +17,6 @@ public class Welcome_screen extends AppCompatActivity {
         tv = findViewById(R.id.welcome);
 
         String s = getIntent().getStringExtra("username");
-        tv.setText("Welcome "+ s);
+        tv.setText(s);
     }
 }

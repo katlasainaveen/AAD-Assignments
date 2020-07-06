@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Assignments6</string>
+
+    <string-array name="branch">
+        <item>Select</item>
+        <item>CSE</item>
+        <item>Mech</item>
+        <item>BBA</item>
+        <item>ECE</item>
+        <item>EEE</item>
+    </string-array>
+
+</resources>
